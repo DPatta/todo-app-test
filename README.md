@@ -8,9 +8,10 @@ Follow the steps below to set up the project.
 
 ### Backend
 1.Navigate to the `backend` directory:
+
  ```bash
-   cd `backend`
-     ```
+   cd backend
+ ```
 2.Install dependencies:
 
 ```bash
@@ -31,7 +32,7 @@ docker compose up
 ### Frontend
 1. Navigate to the `frontend` directory:
   ```bash
-   cd `frontend`
+   cd frontend
    ```
 2. Install dependencies (use the --legacy-peer-deps flag to handle peer dependencies):
 
