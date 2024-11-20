@@ -1,19 +1,6 @@
-# Project Name
+# Todo app
 
-A brief description of your project.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Setup](#setup)
-  - [Backend](#backend)
-  - [Frontend](#frontend)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-
-## Overview
-
-Provide a brief overview of your project. Highlight its purpose, features, or the problem it solves.
+The Project is for test.
 
 ## Setup
 
@@ -34,7 +21,7 @@ npm run start:dev task
 Start the Docker containers:
 
 docker compose up
-
+```
 ### Frontend
 Navigate to the `backend` directory:
    ```bash
@@ -50,3 +37,4 @@ npm run dev
 Start the Docker containers:
 
 docker compose up
+```
