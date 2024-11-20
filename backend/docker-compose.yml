@@ -31,7 +31,7 @@ services:
       - postgres
     volumes:
       - .:/app
-    command: npm run start:dev
+    command: npm run start:dev task
     networks:
       - app-network
 

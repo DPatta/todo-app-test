@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  # Next.js Service
+  frontend:
+    container_name: todo_frontend
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+
+    command: npm run dev
