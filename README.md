@@ -16,10 +16,8 @@ Install dependencies:
 ```bash
 npm install
 ```
-Run Project :
+Run Project (Development) :
 
-- Development
-- 
 ```bash
 npm run start:dev task
 ```
@@ -40,9 +38,8 @@ Install dependencies (use the --legacy-peer-deps flag to handle peer dependencie
  ```bash
 npm install --legacy-peer-deps
 ```
-Run Project :
+Run Project (Development) :
 
-Development
  ```bash
 npm run dev
 ```
