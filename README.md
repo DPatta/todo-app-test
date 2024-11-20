@@ -7,45 +7,45 @@ The Project is for test.
 Follow the steps below to set up the project.
 
 ### Backend
-Navigate to the `backend` directory:
- 
+1.Navigate to the `backend` directory:
+ ```bash
    cd `backend`
-     
-Install dependencies:
+     ```
+2.Install dependencies:
 
 ```bash
 npm install
 ```
-Run Project (Development) :
+3. Run Project (Development) :
 
 ```bash
 npm run start:dev task
 ```
-or
+#### or
 
-Start the Docker containers:
+1. Start the Docker containers:
 
 ```bash
 docker compose up
 ```
 ### Frontend
-Navigate to the `frontend` directory:
-  
+1. Navigate to the `frontend` directory:
+  ```bash
    cd `frontend`
-   
-Install dependencies (use the --legacy-peer-deps flag to handle peer dependencies):
+   ```
+2. Install dependencies (use the --legacy-peer-deps flag to handle peer dependencies):
 
  ```bash
 npm install --legacy-peer-deps
 ```
-Run Project (Development) :
+3. Run Project (Development) :
 
  ```bash
 npm run dev
 ```
-or
+#### or
 
-Start the Docker containers:
+1. Start the Docker containers:
 ```bash
 docker compose up
 ```
