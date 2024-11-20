@@ -24,7 +24,7 @@ npm run start:dev task
 ```
 #### or
 
-1. Start the Docker containers:
+Start the Docker containers:
 
 ```bash
 docker compose up
@@ -46,7 +46,7 @@ npm run dev
 ```
 #### or
 
-1. Start the Docker containers:
+Start the Docker containers:
 ```bash
 docker compose up
 ```
